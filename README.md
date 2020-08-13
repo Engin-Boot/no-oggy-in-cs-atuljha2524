@@ -12,6 +12,6 @@ As oggy irritates me a lot, he should not be in the list.
 
 ## Method
 
-I just used the simple for loop with variable i used as index.
-Whenever a name starting with oggy is deleted i decrement i by
+I used the simple for loop with variable i used as index.
+Whenever I get a name starting with oggy I decrement i by
 one so that it doesn't skip any word.
