@@ -3,10 +3,9 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of strings. As oggy irritates me alot, he should be not be in the list
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+I just used the simple for loop with variable i used as index.
+Whenever a name starting with oggy is deleted i decrement i by one so that it doesn't skip any word. 
