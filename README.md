@@ -8,7 +8,7 @@ Assignment-1
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings.
-As oggy irritates me alot, he should be not be in the list.
+As oggy irritates me a lot, he should not be in the list.
 
 ## Method
 
