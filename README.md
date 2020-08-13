@@ -7,9 +7,11 @@ Assignment-1
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings. As oggy irritates me alot, he should be not be in the list
+This program intends to remove strings containing 'oggy' from a list of strings.
+As oggy irritates me alot, he should be not be in the list.
 
 ## Method
 
 I just used the simple for loop with variable i used as index.
-Whenever a name starting with oggy is deleted i decrement i by one so that it doesn't skip any word.
+Whenever a name starting with oggy is deleted i decrement i by
+one so that it doesn't skip any word.
